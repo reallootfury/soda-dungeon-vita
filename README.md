@@ -21,7 +21,7 @@ legally entitled to use. Do not distribute an APK or extracted game files with
 this loader.
 
 1. Install [kubridge](https://github.com/TheOfficialFloW/kubridge/releases) and
-   FdFix (unless rePatch is installed) under `*KERNEL` in
+ RePatch under `*KERNEL` in
    `ur0:tai/config.txt`.
 2. Copy `libshacccg.suprx` to `ur0:data/` using a lawful dump from your own
    device.
