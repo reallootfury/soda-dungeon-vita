@@ -1,5 +1,7 @@
 # Soda Dungeon · PS Vita loader
 
+*just to note, i had AI go through any copyright issues and get rid of them, the bubble will not have any artwork containing images done by Armor Games
+
 An unofficial PS Vita loader for the Android release of **Soda Dungeon**. It
 runs the original ARMv7 libraries inside a small Android compatibility layer.
 The repository and VPK contain no Soda Dungeon executable code, game assets,
