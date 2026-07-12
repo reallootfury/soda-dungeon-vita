@@ -1,5 +1,7 @@
 # Soda Dungeon · PS Vita loader
 
+[Support this project and others coming up on Buy Me a Coffee](https://buymeacoffee.com/lootfury)
+
 *just to note, i had AI go through any copyright issues and get rid of them, the bubble will not have any artwork containing images done by Armor Games
 
 An unofficial PS Vita loader for the Android release of **Soda Dungeon**. It
