@@ -106,6 +106,9 @@ Hold **L + R** and press **Down** to open the Vita-native Cheat Menu. Use the
 D-pad and Cross to navigate and activate an entry. The longer list scrolls as
 the selection moves. Circle closes the panel.
 
+## please not that the cheat menu is under development. Use at your own risk.
+
+
 ## Repository content and licenses
 
 - Loader code and the project-created geometric LiveArea artwork are available
